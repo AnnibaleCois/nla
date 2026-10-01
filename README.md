@@ -1,9 +1,3 @@
-<br/>
-<br/>
-<img src="assets/images/EpiBiostat.png" alt="Logo" width="400">
-<br/>
-<br/>
-
 
 # Modelling non-linear associations 
 ## Presentation & Code for Seminars in Epidemiology 2026 
