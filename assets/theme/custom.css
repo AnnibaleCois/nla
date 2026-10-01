@@ -1,0 +1,5 @@
+/* Adds space between code and its output */
+.cell > .cell-output, 
+.cell > .cell-output-display {
+  margin-top: 1em !important;
+}

@@ -1,0 +1,46 @@
+# --- R Core & Workspace ---
+.Rhistory
+.RData
+.Ruserdata
+*.RData
+.Rapp.history
+
+# --- RStudio ---
+.Rproj.user/
+.Rprofile
+
+# --- renv (Environment Management) ---
+# Ignore the heavy local library and temporary staging areas, 
+# but allow the lockfile, activation script, and settings.
+renv/library/
+renv/staging/
+renv/local/
+renv/python/
+
+
+# --- Quarto & Technical Publishing ---
+# Ignore rendered outputs if you prefer to generate them fresh, 
+# but keep source code. (Uncomment if you want to track outputs).
+# /.quarto/
+# *_files/
+# *_cache/
+
+# --- Python / Reticulate (if applicable) ---
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# --- Operating System Files ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# --- IDEs & Editors (VS Code / Positron) ---
+.vscode/
+.positron/
